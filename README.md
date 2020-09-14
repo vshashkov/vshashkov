@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**vshashkov/vshashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vshashkov/vshashkov** is a ✨ _special_ ✨ reposiry because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
