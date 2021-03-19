@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Hi 👋, I'm Vadim Shashkov
 </h1>
 <h3 align="center">
-  Full Stack Web Developer from Ukraine 
+  Senior Software Engineer from Ukraine 
 </h3>
 
 <p align="center">
