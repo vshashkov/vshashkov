@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hi 👋, I'm Vadim Shashkov
+  Hi 👋, I'm Vadym Shashkov
 </h1>
 <h3 align="center">
-  Senior Software Engineer from Ukraine 
+  Senior Software Engineer from Ukraine
+</h3>
+<h5 align="center">
+  Currently in NYC
 </h3>
 
 <p align="center">
