@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Hi 👋, I'm Vadym Shashkov
 </h1>
 <h3 align="center">
-  CTO @ Stealth Startup | ex. Founder & CTO @ Code & Cakes, ex. Senior Founding Engineer @ AXDRAFT
+  CTO @ SUPERAGENT | ex. Founder & CTO @ Code & Cakes, ex. Senior Founding Engineer @ AXDRAFT
 </h3>
 
 <p align="center">
